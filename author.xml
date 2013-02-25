@@ -12,14 +12,14 @@
   -->
 
 <locale name="en_US" full_name = "English">
-	<message key="author.submit">New Submission</message>
-	<message key="author.track">Active Submissions</message>
-	<message key="author.submit.startHere">Start here to submit a paper to this conference.</message>
-	<message key="author.submit.startHereLink">Step one of the submission process</message>
-	<message key="author.submit.step1">Step 1. Starting the Submission</message>
-	<message key="author.submit.step3">Step 3. Entering the Submission's Metadata</message>
-	<message key="author.submit.step3AbstOnly">Step 2. Entering the Submission's Metadata</message>
-	<message key="author.submit.step4AbstOnly">Step 3. Uploading Supplementary Files</message>
+	<message key="author.submit">Нова заявка (New Submission)</message>
+	<message key="author.track">Активні заявки (Active Submissions)</message>
+	<message key="author.submit.startHere">Почати тут, щоб відправити документ на цю конференцію (Start here to submit a paper to this conference).</message>
+	<message key="author.submit.startHereLink"> Перший крок подачі заявки (Step one of the submission process)</message>
+	<message key="author.submit.step1">Крок 1. Початок заявки (Step 1. Starting the Submission)</message>
+	<message key="author.submit.step3">Крок 3. Ввід ключових слів для пошуку (Step 3. Entering the Submission's Metadata)</message>
+	<message key="author.submit.step3AbstOnly">Крок 3. Ввід ключових слів для пошуку (Step 2. Entering the Submission's Metadata)</message>
+	<message key="author.submit.step4AbstOnly">Крок 3. Завантаження додаткових файлів (Step 3. Uploading Supplementary Files)</message>
 	<message key="author.submit.step2">Step 2. Uploading the Submission</message>
 	<message key="author.submit.step2NoAbstracts">Step 3. Uploading the Submission</message>	
 	<message key="author.submit.step4">Step 4. Uploading Supplementary Files</message>
